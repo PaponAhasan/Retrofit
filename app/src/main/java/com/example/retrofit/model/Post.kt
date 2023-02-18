@@ -1,7 +1,7 @@
 package com.example.retrofit.model
 
 class Post(
-    val myUserId: Int,
+    val userId: Int,
     val id: Int,
     val title: String,
     val body: String
